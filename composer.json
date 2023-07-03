@@ -1,11 +1,11 @@
 {
-    "name": "orhanerday/open-ai",
+    "name": "minube/open-ai-php",
     "description": "OpenAI GPT-3 Api Client in PHP",
     "keywords": [
         "orhanerday",
         "open-ai"
     ],
-    "homepage": "https://github.com/orhanerday/open-ai",
+    "homepage": "https://github.com/minube/open-ai-php",
     "license": "MIT",
     "authors": [
         {
